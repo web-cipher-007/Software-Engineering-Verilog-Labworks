@@ -1,3 +1,4 @@
+//1st design
 module BinarySubtractor(
   input [3:0] A,        // 4-bit input A (minuend)
   input [3:0] B,        // 4-bit input B (subtrahend)
