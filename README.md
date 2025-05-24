@@ -34,5 +34,5 @@ Verilog is a hardware description language (HDL) used to model and design digita
 
 ---
 
-This repo contains lab assignments for practicing Verilog design and testbench coding, focusing on basic arithmetic circuits such as adders and subtractors.
+This repo contains labworks for practicing Verilog design and testbench coding.
 
