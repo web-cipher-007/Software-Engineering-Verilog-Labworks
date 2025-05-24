@@ -7,7 +7,7 @@ module testbench;
   wire borrowOut;
 
   // Instantiate the BinarySubtractor module and connect signals
-  // 'dut' stands for Device Under Test
+  // 'dut' stands for Device Under Test in real-life scenario
   BinarySubtractor dut(A, B, diff, borrowOut);
 
   // Initial block runs once at the start of simulation
