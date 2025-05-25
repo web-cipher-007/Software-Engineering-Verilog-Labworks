@@ -1,4 +1,4 @@
-# Software Engineering Verilog Labworks
+# COA Verilog Labworks
 
 ## Introduction to Verilog
 
